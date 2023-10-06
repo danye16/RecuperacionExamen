@@ -49,7 +49,7 @@ namespace RecuperacionExamen
 
         }
 
-        
+        /*
         public void Problema1()
         {
             string[] curpa;
@@ -59,7 +59,7 @@ namespace RecuperacionExamen
             Console.WriteLine("Ingrese su curp");
              curp=Console.ReadLine();
 
-            string sexo= curp.IndexOf()
+            string sexo= curp.IndexOf()*/
 
 
 
